@@ -1,20 +1,13 @@
 #include <stdio.h>
 
 int main() {
-  int x = 10;
-  int y = 3;
+  int a = 10;
+  int b = 3;
+  printf("%d\n", a / b);  
 
-  printf("%d\n", x + y); 
-  printf("%d\n", x - y); 
-  printf("%d\n", x * y); 
-  printf("%d\n", x / y); 
-  printf("%d\n", x % y); 
-
-  int z = 5;
-  ++z;
-  printf("%d\n", z); 
-  --z;
-  printf("%d\n", z); 
+  double c = 10.0;
+  double d = 3.0;
+  printf("%f\n", c / d); 
 
   return 0;
 }
