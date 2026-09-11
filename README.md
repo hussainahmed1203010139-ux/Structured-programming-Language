@@ -2,7 +2,7 @@
 
 ## W3Schools C Programming Practice
 
-This repository contains C programming practice exercises completed from W3Schools, covering fundamental concepts through loops.
+This repository contains C programming practice exercises completed from W3Schools, covering fundamental concepts from syntax and variables to conditional statements and loops.
 
 ### Topics Covered
 1. Syntax and Output
